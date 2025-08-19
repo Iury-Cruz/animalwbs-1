@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h2{-webkit-text-stroke: 1px black;}
+p{ -webkit-text-stroke: 1px black;}
+
